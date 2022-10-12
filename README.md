@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sanjay
 - 👀 I’m interested in DataScience
-- 🌱 I’m currently learning ML DL
+- 🌱 I’m currently learning ML,DL,CV
 - 💞️ I’m looking to collaborate on DS projects and computer vision projects
 - 📫 How to reach me email:sanjaysanjay1270@gmail.com 
 - liinked-in profile: https://www.linkedin.com/in/sanjay-sanjay-3a87641b7/
