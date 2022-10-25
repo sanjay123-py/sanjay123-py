@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sanjay</h1>
 <h3 align="center">A passionate Data Science Enthusiast from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjay&label=Profile%20views&color=0e75b6&style=flat" alt="sanjay" /> </p>
 
 - 🔭 I’m currently working on [Plant disease prediction using Tensorflow](https://github.com/sanjay123-py/TensorFlow-Plant-disease-recognition)
 
