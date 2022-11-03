@@ -2,8 +2,6 @@
 <h3 align="center">A passionate Data Science Enthusiast from India</h3>
 
 
-- 🔭 I’m currently working on [Plant disease prediction using Tensorflow](https://github.com/sanjay123-py/TensorFlow-Plant-disease-recognition)
-
 - 🌱 I’m currently learning **TF ML DL CV**
 
 - 📫 How to reach me **sanjaysanjay1270@gmail.com**
