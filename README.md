@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sanjay</h1>
 <h3 align="center">A passionate Data Science Enthusiast from India</h3>
 
-
 - 🌱 I’m currently learning **TF ML DL CV**
 
 - 📫 How to reach me **sanjaysanjay1270@gmail.com**
