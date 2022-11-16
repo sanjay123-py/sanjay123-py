@@ -2,6 +2,7 @@
 <h3 align="center">A passionate Data Science Enthusiast from India</h3>
 
 - 🌱 I’m currently learning **Data Science**
+- interested in NLP,CV,GAN...
 - 📫 How to reach me **sanjaysanjay1270@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
