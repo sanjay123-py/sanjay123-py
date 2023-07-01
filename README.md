@@ -13,6 +13,5 @@ A passionate Data Science Enthusiast from India<br>🌱 I’m currently learning
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sanjay123-py&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=sanjay123-py&icon=5&color=2)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
