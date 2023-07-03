@@ -1,6 +1,7 @@
 # 💫 About Me:
 A passionate Data Science Enthusiast from India<br>🌱 I’m currently learning Data Science and Data Engineering<br>🦾 Interested in NLP,CV,GAN...<br>📫 How to reach me sanjaysanjay1270@gmail.com
 
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanjay-sanjay-3a87641b7/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/21059110/sanjay-r) 
 
